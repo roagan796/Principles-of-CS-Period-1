@@ -1,2 +1,2 @@
 language = "python3"
-run = "python python_file_test.py"
+run = "python Wolf_Project1MadLibs.py"
