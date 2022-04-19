@@ -1,6 +1,3 @@
-#Used for clear function
-import replit
-
 #Welcomes user and explains the story and setting.
 print("Welcome pirate! You have sailed all this way towards The Island of Scurvy. Here lies a dungeon where the captain stores away his gold, hidden from all. Many have failed trying to breach his dungeon, but I have faith in you. Get through the captain\'s dungeon and get his gold!")
 
